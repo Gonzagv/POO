@@ -1,0 +1,17 @@
+{
+  "nombre":"Gonza",
+      "cuit":"200172670776",
+      "cuentas": [
+          {
+            "titular":"Pedro",
+            "saldo":1250,
+            "cbu":"215463845687"
+          },
+          {
+            "titular":"Will",
+            "saldo":4000,
+            "cbu":"215497145687"
+          }
+      ]
+}
+ 
