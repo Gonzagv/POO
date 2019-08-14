@@ -1,0 +1,13 @@
+### MAVEN ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+bin/
+*.log
+*.gz
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
